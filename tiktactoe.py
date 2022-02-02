@@ -92,5 +92,3 @@ def main():
  
     # Stores the options
     options = ['X', 'O']
-
-#testing this rn
